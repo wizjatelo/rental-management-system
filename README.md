@@ -219,7 +219,5 @@ For production deployment, consider the following:
 4. Use a secure and unique JWT_SECRET
 5. Configure appropriate rate limiting for your use case
 6. Enable HTTPS for all communications
-
-## License
-
-This project is licensed under the MIT License.
+ 
+ 

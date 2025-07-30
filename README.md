@@ -85,7 +85,7 @@ npm start
 
 ## API Routes
 
-### Authentication
+### Authentication (test api works )
 
 - `POST /api/auth/register` - Register a new user
 - `POST /api/auth/login` - Authenticate a user
